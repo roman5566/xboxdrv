@@ -1,0 +1,171 @@
+xboxdrv (0.8.4-0debian1~free60-1) UNRELEASED; urgency=low
+
+  * Fixes for building with debian
+  * Append free60 tag
+
+ -- tuxuser <webmaster@libxenon.org>  Mon, 24 Sep 2012 21:32:23 +0200
+
+xboxdrv (0.8.4-0ubuntu2) precise; urgency=low
+
+  * Ubuntu 12.04 update
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Fri, 04 May 2012 20:13:05 +0200
+
+xboxdrv (0.8.4-0ubuntu1) oneiric; urgency=low
+
+  * xboxdrv 0.8.4 release
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Tue, 24 Jan 2012 12:02:18 +0100
+
+xboxdrv (0.8.3-0ubuntu2) oneiric; urgency=low
+
+  * Fixed build dependencies
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Mon, 23 Jan 2012 21:51:32 +0100
+
+xboxdrv (0.8.3-0ubuntu1) oneiric; urgency=low
+
+  * xboxdrv 0.8.3 release
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Mon, 23 Jan 2012 21:38:24 +0100
+
+xboxdrv (0.8.2-1) natty; urgency=low
+
+  * xboxdrv 0.8.2 release
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Sun, 07 Aug 2011 02:33:51 +0200
+
+xboxdrv (0.8.1-1) natty; urgency=low
+
+  * xboxdrv 0.8.1 release
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Wed, 20 Jul 2011 20:26:50 +0200
+
+xboxdrv (0.8.0-1) natty; urgency=low
+
+  * xboxdrv 0.8.0 release
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Thu, 26 May 2011 01:13:47 +0200
+
+xboxdrv (0.7.3-1) maverick; urgency=low
+
+  * xboxdrv 0.7.3 release
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Wed, 16 Mar 2011 11:29:27 +0100
+
+xboxdrv (0.7.2-2) maverick; urgency=low
+
+  * Fixed xboxdrvctl install
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Mon, 07 Mar 2011 05:22:11 +0100
+
+xboxdrv (0.7.2-1) maverick; urgency=low
+
+  * xboxdrv 0.7.2 release
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Sun, 06 Mar 2011 12:58:11 +0100
+
+xboxdrv (0.7.1-1) maverick; urgency=low
+
+  * xboxdrv 0.7.1 release
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Sun, 30 Jan 2011 20:53:20 +0100
+
+xboxdrv (0.7.0-1) maverick; urgency=low
+
+  * xboxdrv 0.7.0 release
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Thu, 27 Jan 2011 21:34:54 +0100
+
+xboxdrv (0.6.6-1) maverick; urgency=low
+
+  * xboxdrv 0.6.6 release
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Sun, 23 Jan 2011 02:04:15 +0100
+
+xboxdrv (0.6.5-1) maverick; urgency=low
+
+  * xboxdrv 0.6.5 release
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Sat, 22 Jan 2011 12:32:14 +0100
+
+xboxdrv (0.6.4-2) maverick; urgency=low
+
+  * Fixed debhelper dependency
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Thu, 13 Jan 2011 23:08:15 +0100
+
+xboxdrv (0.6.4-1) maverick; urgency=low
+
+  * xboxdrv 0.6.4 release
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Thu, 13 Jan 2011 22:54:41 +0100
+
+xboxdrv (0.6.3-2) maverick; urgency=low
+
+  * Fixed missing include
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Mon, 10 Jan 2011 19:26:44 +0100
+
+xboxdrv (0.6.3-1) maverick; urgency=low
+
+  * xboxdrv 0.6.3 release
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Mon, 10 Jan 2011 18:48:49 +0100
+
+xboxdrv (0.6.2) maverick; urgency=low
+
+  * New xboxdrv release
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Fri, 31 Dec 2010 22:22:57 +0100
+
+xboxdrv (0.6.1) maverick; urgency=low
+
+  * New upstream release
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Wed, 22 Dec 2010 00:02:05 +0100
+
+xboxdrv (0.6.0) maverick; urgency=low
+
+  * New upstream release
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Sat, 18 Dec 2010 14:21:38 +0100
+
+xboxdrv (0.5.0-1) lucid; urgency=low
+
+  * Updated to new upstream
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Fri, 26 May 2010 21:12:00 +0200
+
+xboxdrv (0.4.13-1) lucid; urgency=low
+
+  * Updated to new upstream
+  * Switched to a simplified debian/rules
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Fri, 13 May 2010 18:34:00 +0200
+
+xboxdrv (0.4.12-4) lucid; urgency=low
+
+  * switched to git-buildpackage
+  * turned it back into a non-native package
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Fri, 09 May 2010 13:37:00 +0200
+
+xboxdrv (0.4.12-3) lucid; urgency=low
+
+  * Updated to final 0.4.12 release
+  * Fixed incorrect install prefix
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Fri, 08 May 2010 17:06:22 +0200
+
+xboxdrv (0.4.12-2) lucid; urgency=low
+
+  * Changed libboost1.41 dependency to libboost1.40
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Fri, 07 May 2010 14:27:22 +0200
+
+xboxdrv (0.4.12-1) lucid; urgency=low
+
+  * Initial release
+
+ -- Ingo Ruhnke <grumbel@gmx.de>  Fri, 07 May 2010 13:27:22 +0200
