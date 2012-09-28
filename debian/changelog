@@ -1,4 +1,4 @@
-xboxdrv (0.8.4-0debian1~free60-1) UNRELEASED; urgency=low
+xboxdrv (0.8.4-0debian1~0free60) UNRELEASED; urgency=low
 
   * Fixes for building with debian
   * Append free60 tag
